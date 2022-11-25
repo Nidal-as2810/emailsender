@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.nidalas.portfolio"},{"l":"com.nidalas.portfolio.controller"},{"l":"com.nidalas.portfolio.service"}];updateSearchResults();

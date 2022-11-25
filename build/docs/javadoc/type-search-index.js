@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.nidalas.portfolio","l":"Message"},{"p":"com.nidalas.portfolio","l":"PortfolioApplication"},{"p":"com.nidalas.portfolio.service","l":"SendEmailService"},{"p":"com.nidalas.portfolio.controller","l":"SendMessageController"}];updateSearchResults();
